@@ -18,3 +18,8 @@ outline: deep
 
 
 
+## 部署
+
+```sh
+scp -r docs/.vitepress/dist/* root@188.245.104.126:/opt/1panel/apps/openresty/openresty/www/sites/docs.fountainhead.land/index/
+```

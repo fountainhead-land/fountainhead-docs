@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as l,ae as o}from"./chunks/framework.Dh1jimFm.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"trial-policy.md","filePath":"trial-policy.md"}'),r={name:"trial-policy.md"};function a(n,i,s,c,p,u){return l(),t("div",null,i[0]||(i[0]=[o("",2)]))}const _=e(r,[["render",a]]);export{f as __pageData,_ as default};

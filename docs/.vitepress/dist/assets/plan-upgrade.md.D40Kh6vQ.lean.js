@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as i,ae as r}from"./chunks/framework.Dh1jimFm.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"plan-upgrade.md","filePath":"plan-upgrade.md"}'),l={name:"plan-upgrade.md"};function n(o,e,s,c,d,u){return i(),a("div",null,e[0]||(e[0]=[r("",2)]))}const h=t(l,[["render",n]]);export{g as __pageData,h as default};

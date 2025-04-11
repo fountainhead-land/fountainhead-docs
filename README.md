@@ -10,5 +10,6 @@
 # 部署
 
 ```sh
+pnpm run docs:build
 scp -r docs/.vitepress/dist/* root@188.245.104.126:/opt/1panel/apps/openresty/openresty/www/sites/docs.fountainhead.land/index/
 ```

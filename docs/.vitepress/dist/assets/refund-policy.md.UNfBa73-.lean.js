@@ -1,0 +1,1 @@
+import{_ as t,c as n,o,ae as r}from"./chunks/framework.Dh1jimFm.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"refund-policy.md","filePath":"refund-policy.md"}'),i={name:"refund-policy.md"};function a(l,e,s,d,c,u){return o(),n("div",null,e[0]||(e[0]=[r("",2)]))}const _=t(i,[["render",a]]);export{f as __pageData,_ as default};
